@@ -1,4 +1,5 @@
-<div align=center>![logo]("https://github.com/xiashuangxi/lemon-neovim/blob/master/img/logo.jpg")
+<div align=center>![logo](https://github.com/xiashuangxi/lemon-neovim/blob/master/img/logo.jpg)
+<img src="https://github.com/xiashuangxi/lemon-neovim/blob/master/img/logo.jpg">
 </div>
 ```
    _                                         _   _         __     ___           
@@ -10,7 +11,8 @@
 
 # lemon-neovim
 
-<div align=center>![screenshots](https://github.com/xiashuangxi/lemon-neovim/blob/master/img/screenshots.png")
+<div align=center>
+<img src="https://github.com/xiashuangxi/lemon-neovim/blob/master/img/screenshots.png">
 </div>
 
 lemon-neovim 是 neovim 配置的发行版本。
