@@ -20,4 +20,5 @@ call plug#begin(g:plugged_home)
     " Plug 'morhetz/gruvbox'
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
+    Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' } " Go
 call plug#end()

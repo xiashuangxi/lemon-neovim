@@ -155,6 +155,12 @@
 		let g:airline_theme = 'dark_minimal'
 	" }
 
+	" fatih/vim-go {
+		let g:go_version_warning=0
+		let g:go_fmt_autosave=1
+		let g:go_fmt_command="goimports"
+	" }
+
 " }
 
 " 界面设置 {
